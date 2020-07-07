@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"xiosbase": "cpp",
+			"vector": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"*.tcc": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"regex": "cpp"
+		}
+	}
+}
